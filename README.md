@@ -1,5 +1,5 @@
 # Timber
-[![Build Status](https://travis-ci.org/naman14/Timber.svg?branch=master)](https://travis-ci.org/naman14/Timber)
+[![Build Status](https://travis-ci.org/naman14/Timber.svg?branch=master)](https://travis-ci.org/naman14/Timber) [![Join the chat at https://gitter.im/jamboApp1/Lobby](https://badges.gitter.im/jamboApp1/Lobby.svg)](https://gitter.im/jamboApp1/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Material Design Music Player
 
